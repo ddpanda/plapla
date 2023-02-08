@@ -1,10 +1,10 @@
-#Property Dropdown Filter and Search Field is global.
+# Property Dropdown Filter and Search Field is global.
 
 
-#Search fields
+# Search fields
 * Reservation, Guests, Invoice, Extra
 
-#1 User
+# 1 User
 Attributes
 * Email
 * Pass
@@ -19,15 +19,15 @@ Attributes
     * CRUD
 * Login
 
-#Add New Property (Button)
-#Business Info (Hotel/Property Type)
+# Add New Property (Button)
+# Business Info (Hotel/Property Type)
 * Name
 * Property Type: Hotel, Apartment, House, Hostel, Motel, Bungalow, Resort, Villa
 * Location
     * Geo Location/Map Location
     * Custom Address
 
-#2 Unit Info (Room Type)
+# 2 Unit Info (Room Type)
 * Unit Name
 * Unit Type
     * Room
@@ -42,7 +42,7 @@ Attributes
 * Number of Bathrooms
 * Area
 
-#Dashboard
+# Dashboard
 * Date Selection
 * Reservation Report-1
     * Confirmed
@@ -55,19 +55,19 @@ Attributes
 * Income Chart
 * Channels: Reservation through Channel Partners
 
-#Calendar
+# Calendar
 Calendar With Room reservation from to till date. Price, availability, room number, room type(shrt form) and property name.
 add new button -> Reservation and Group Reservation
 
-#Reservations
+# Reservations
 List of reservations for a particular day. Default day is today.
 List with channel, date, guest, time period of the stay, amount, rooms, notes and actions -> edit, invoice, delete
 
-#Guests
+# Guests
 Contact information with stay period. KYC included.
 Insert Guest button to add new guest info directly.
 
-#Guest
+# Guest
 * Name
     * First
     * Last
@@ -83,7 +83,7 @@ Insert Guest button to add new guest info directly.
 * Comapany
 * Note
 
-#Invoices
+# Invoices
 Add New Invoice (button)
 Paid (Toggle)
 Form
@@ -101,7 +101,7 @@ Client Info
     Address
     Reservation Holder
     
-#Invoices(though edit invoice)
+# Invoices(though edit invoice)
 Actions button
     Merge Invoice
     Split
