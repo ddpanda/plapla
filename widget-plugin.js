@@ -28,7 +28,7 @@ function validateUrl($) {
 function CreateWhatsAppButtonAndWidget($) {
 	let _ = {
 		env: $.env || "",
-		linkid: $.linkid || "",
+		linkid: $.linkid || "WnxUvD",
 		phoneNumber: $.phoneNumber || "+919999999999",
 		variant: $.variant || "WhatsAppBtnAndChatWidget",
 		btnBackground: $.btnBackground || "#4dc247",
