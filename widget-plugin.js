@@ -119,7 +119,7 @@ function CreateWhatsAppButtonAndWidget($) {
 			padding: 0 !important;
 			border: none !important;
 			outline: none !important;
-			font-family: 'Roboto','Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+			font-family: 'Jost','Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 			border-radius: ${_.borderRadius}px !important;
 			transition: all 2s linear !important;
 			position: fixed !important;
@@ -132,7 +132,7 @@ function CreateWhatsAppButtonAndWidget($) {
 			line-height: 1 !important;
 		}
 		.df-btn * {
-			font-family: 'Roboto','Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+			font-family: 'Jost','Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 		}
 		.df-btn-text {
 			border-radius: ${_.borderRadius}px !important;
@@ -315,7 +315,7 @@ function CreateWhatsAppButtonAndWidget($) {
 			white-space: pre-wrap !important;
 			min-width: 160px !important;
 			max-width: 250px !important;
-			font-family: Roboto !important;
+			font-family: Jost !important;
 			margin-bottom: 0px !important;
 			word-break: break-word !important;
 			line-height: 1.4 !important;
